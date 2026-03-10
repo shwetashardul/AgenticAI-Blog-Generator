@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+.env
+
+# Virtual environments
+.venv
+
+# LangGraph local server state
+.langgraph_api/
+
+# Python version file
+.python-version
